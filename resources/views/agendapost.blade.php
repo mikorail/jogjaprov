@@ -14,6 +14,28 @@
 	<div class="section section-xl">
 		<div class="container">
 			<div class="row">
+				
+				<div class="col-sm-9 post" style="border-left: 1px dashed #ddd;min-height: 100vh;">
+					<h2 class="post-title">Jogja Color Run 2016</h2>
+					<div class="agenda-meta">
+						<span><i class="fa fa-tags"></i> <a href="../index/lomba.html">Lomba</a></span>
+
+						<span><i class="fa fa-calendar fa-fw"></i> 06 November 2016 - 07:00 - 06 November 2016 -
+							23:55</span>
+					</div>
+					
+					<br />
+					Jogja Color Run 2016 merupakan acara perlombaan sekaligus olahraga. Diadakan pada:<br>
+					<ul>
+						<li>Tanggal : 06 Nov 2016 </li>
+						<li>Pukul : 07:00:00 - 24:00:00 </li>
+						<li>Tempat : Lapangan Parkir Mandala Krida</li>
+					</ul><br>
+					<div class="agenda-btn">
+						<a href="https://maps.google.com/?q=-7.795804,110.384289" class="btn" target="_blank"><i
+								class="fa fa-map-marker"></i> Lihat Lokasi</a>
+					</div>
+				</div>
 				<div class="col-sm-3 blog-sidebar">
 
 					<form id="w0" action="https://jogjaprov.go.id/agenda/index" method="post">
@@ -64,27 +86,8 @@
 							</li>
 						</ul>
 				</div>
-				<div class="col-sm-9 post" style="border-left: 1px dashed #ddd;min-height: 100vh;">
-					<h2 class="post-title">Jogja Color Run 2016</h2>
-					<div class="agenda-meta">
-						<span><i class="fa fa-tags"></i> <a href="../index/lomba.html">Lomba</a></span>
-
-						<span><i class="fa fa-calendar fa-fw"></i> 06 November 2016 - 07:00 - 06 November 2016 -
-							23:55</span>
-					</div>
-					<div class="agenda-btn">
-						<a href="https://maps.google.com/?q=-7.795804,110.384289" class="btn" target="_blank"><i
-								class="fa fa-map-marker"></i> Lihat Lokasi</a>
-					</div>
-					<br />
-					Jogja Color Run 2016 merupakan acara perlombaan sekaligus olahraga. Diadakan pada:<br>
-					<ul>
-						<li>Tanggal : 06 Nov 2016 </li>
-						<li>Pukul : 07:00:00 - 24:00:00 </li>
-						<li>Tempat : Lapangan Parkir Mandala Krida</li>
-					</ul><br>
-				</div>
 			</div>
+			
 		</div>
 	</div>
 
