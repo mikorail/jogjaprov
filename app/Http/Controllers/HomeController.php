@@ -11,6 +11,16 @@ class HomeController extends Controller
     {
         return view('home');
     }
+    
+    public function agendapost()
+    {
+        return view('agendapost');
+    }
+
+    public function pengumuman()
+    {
+        return view('pengumuman');
+    }
 
     public function subdomain()
     {
@@ -26,6 +36,12 @@ class HomeController extends Controller
     {
         return view('berita');
     }
+    
+    public function media()
+    {
+        return view('media');
+    }
+    
     
     public function profil()
     {
@@ -45,6 +61,19 @@ class HomeController extends Controller
     public function external()
     {
         return view('external');
+    }
+    public function post()
+    {
+        return view('post');
+    }
+    public function artikel()
+    {
+        return view('artikel');
+    }
+    
+    public function artikeldetail()
+    {
+        return view('artikeldetail');
     }
     
 }

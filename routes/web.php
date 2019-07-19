@@ -21,6 +21,18 @@ Route::get('/agenda', 'HomeController@agenda')->name('agenda');
 Route::get('/berita', 'HomeController@berita')->name('berita');
 Route::get('/profil', 'HomeController@profil')->name('profil');
 Route::get('/kontak', 'HomeController@kontak')->name('kontak');
+Route::get('/post', 'HomeController@post')->name('post');
+Route::get('/external', 'HomeController@external')->name('external');
+Route::get('/download', 'HomeController@download')->name('download');
+Route::get('/media', 'HomeController@media')->name('media');
+Route::get('/pengumuman', 'HomeController@pengumuman')->name('pengumuman');
+Route::get('/agendapost', 'HomeController@agendapost')->name('agendapost');
+Route::get('/artikel', 'HomeController@artikel')->name('artikel');
+Route::get('/artikeldetail', 'HomeController@artikeldetail')->name('artikeldetail');
+
+
+
+
 
 
 ?>
