@@ -29,6 +29,14 @@ Route::get('/pengumuman', 'HomeController@pengumuman')->name('pengumuman');
 Route::get('/agendapost', 'HomeController@agendapost')->name('agendapost');
 Route::get('/artikel', 'HomeController@artikel')->name('artikel');
 Route::get('/artikeldetail', 'HomeController@artikeldetail')->name('artikeldetail');
+Route::get('/profil-instansi', 'HomeController@profilinstansi')->name('profilinstansi');
+Route::get('/profil-visi', 'HomeController@profilvisi')->name('profilvisi');
+Route::get('/profil-sejarah', 'HomeController@profilsejarah')->name('profilsejarah');
+Route::get('/profil-satriya', 'HomeController@profilsatriya')->name('profilsatriya');
+
+
+
+
 
 
 

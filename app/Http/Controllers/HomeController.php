@@ -76,4 +76,22 @@ class HomeController extends Controller
         return view('artikeldetail');
     }
     
+    public function profilinstansi()
+    {
+        return view('profil-instansi');
+    }
+
+    public function profilvisi()
+    {
+        return view('profil-visi');
+    }
+    public function profilsejarah()
+    {
+        return view('profil-sejarah');
+    }
+    public function profilsatriya()
+    {
+        return view('profil-satriya');
+    }
+    
 }

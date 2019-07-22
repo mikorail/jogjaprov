@@ -13,53 +13,7 @@
     <div class="section section-xl">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3 blog-sidebar">
-
-                    <form id="w0" action="https://jogjaprov.go.id/pengumuman/filter" method="post">
-                        <input type="hidden" name="frontend-csrf"
-                            value="dUJ0dUhpWXgiICQCMlEUIEYsQy0EWgghAHoHRHEaDxkWHRkWegQsSw==">
-                        <div class="searchform">
-                            <div class="input-group">
-                                <input type="text" id="beritasearch-keyword" class="form-control"
-                                    name="PengumumanSearch[keyword]" value="" size="50" placeholder="Cari pengumuman..">
-                                <span class="input-group-btn">
-                                    <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
-                                </span>
-                            </div>
-                        </div>
-
-                        <br /><br />
-                        <h4>Pengumuman Terbaru</h4>
-                        <ul>
-                            <li>
-                                <a href="pengumuman/detail/53-surat-edaran-hut-ri-ke-74-tahun-2019.html">
-                                    <span class="date">03 Juli 2019</span><br />
-                                    Surat Edaran HUT ke-74 RI Tahun 2019 </a>
-                            </li>
-                            <li>
-                                <a
-                                    href="pengumuman/detail/52-hasil-seleksi-pegawai-pemerintah-dengan-perjanjian-kerja-tahap-i-pemerintah-daerah-daerah-istimewa-y.html">
-                                    <span class="date">02 Juli 2019</span><br />
-                                    Hasil Seleksi Pegawai Pemerintah Dengan Perjanjian Kerja Tahap I Pemda DIY </a>
-                            </li>
-                            <li>
-                                <a
-                                    href="pengumuman/detail/51-penatapan-lokasi-pembangunan-jalur-kereta-api-akses-bandara-nyia.html">
-                                    <span class="date">18 Juni 2019</span><br />
-                                    Penatapan Lokasi Pembangunan Jalur Kereta Api Akses Bandara NYIA </a>
-                            </li>
-                            <li>
-                                <a href="pengumuman/detail/50-seleksi-calon-anggota-komisi-informasi-daerah-diy.html">
-                                    <span class="date">13 Juni 2019</span><br />
-                                    Seleksi Calon Anggota Komisi Informasi Daerah DIY </a>
-                            </li>
-                            <li>
-                                <a href="pengumuman/detail/49-libur-pelayanan-perizinan-dan-non-perizinan.html">
-                                    <span class="date">31 Mei 2019</span><br />
-                                    Libur Pelayanan Perizinan dan Non Perizinan </a>
-                            </li>
-                        </ul>
-                </div>
+                
                 <div class="col-sm-9" style="border-left: 1px dashed #ddd;min-height: 100vh;">
                     <h2 class="post-title" style="font-weight: bold;">Pengumuman</h2>
                     <hr />
@@ -157,6 +111,53 @@
                         </ul>
                     </div>
                 </div>
+                <div class="col-sm-3 blog-sidebar"style="background-color:#f5f5f5">
+                    <br>
+                        <form id="w0" action="https://jogjaprov.go.id/pengumuman/filter" method="post">
+                            <input type="hidden" name="frontend-csrf"
+                                value="dUJ0dUhpWXgiICQCMlEUIEYsQy0EWgghAHoHRHEaDxkWHRkWegQsSw==">
+                            <div class="searchform">
+                                <div class="input-group">
+                                    <input type="text" id="beritasearch-keyword" class="form-control"
+                                        name="PengumumanSearch[keyword]" value="" size="50" placeholder="Cari pengumuman..">
+                                    <span class="input-group-btn">
+                                        <button class="btn btn-default" type="submit"><i class="fa fa-search"></i></button>
+                                    </span>
+                                </div>
+                            </div>
+    
+                            <br /><br />
+                            <h4>Pengumuman Terbaru</h4>
+                            <ul>
+                                <li>
+                                    <a href="pengumuman/detail/53-surat-edaran-hut-ri-ke-74-tahun-2019.html">
+                                        <span class="date">03 Juli 2019</span><br />
+                                        Surat Edaran HUT ke-74 RI Tahun 2019 </a>
+                                </li>
+                                <li>
+                                    <a
+                                        href="pengumuman/detail/52-hasil-seleksi-pegawai-pemerintah-dengan-perjanjian-kerja-tahap-i-pemerintah-daerah-daerah-istimewa-y.html">
+                                        <span class="date">02 Juli 2019</span><br />
+                                        Hasil Seleksi Pegawai Pemerintah Dengan Perjanjian Kerja Tahap I Pemda DIY </a>
+                                </li>
+                                <li>
+                                    <a
+                                        href="pengumuman/detail/51-penatapan-lokasi-pembangunan-jalur-kereta-api-akses-bandara-nyia.html">
+                                        <span class="date">18 Juni 2019</span><br />
+                                        Penatapan Lokasi Pembangunan Jalur Kereta Api Akses Bandara NYIA </a>
+                                </li>
+                                <li>
+                                    <a href="pengumuman/detail/50-seleksi-calon-anggota-komisi-informasi-daerah-diy.html">
+                                        <span class="date">13 Juni 2019</span><br />
+                                        Seleksi Calon Anggota Komisi Informasi Daerah DIY </a>
+                                </li>
+                                <li>
+                                    <a href="pengumuman/detail/49-libur-pelayanan-perizinan-dan-non-perizinan.html">
+                                        <span class="date">31 Mei 2019</span><br />
+                                        Libur Pelayanan Perizinan dan Non Perizinan </a>
+                                </li>
+                            </ul>
+                    </div>
             </div>
         </div>
     </div>

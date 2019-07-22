@@ -18,9 +18,9 @@
 				<div class="col-sm-9 post" style="border-left: 1px dashed #ddd;min-height: 100vh;">
 					<h2 class="post-title">Jogja Color Run 2016</h2>
 					<div class="agenda-meta">
-						<span><i class="fa fa-tags"></i> <a href="../index/lomba.html">Lomba</a></span>
+						<span class="badge badge-info"><i class="fa fa-tags"></i> <a href="../index/lomba.html" style="color:#fff">Lomba</a></span>
 
-						<span><i class="fa fa-calendar fa-fw"></i> 06 November 2016 - 07:00 - 06 November 2016 -
+						<span class="badge badge-info" style="background-color:darkolivegreen"><i class="fa fa-calendar fa-fw"></i> 06 November 2016 - 07:00 - 06 November 2016 -
 							23:55</span>
 					</div>
 					
@@ -36,8 +36,8 @@
 								class="fa fa-map-marker"></i> Lihat Lokasi</a>
 					</div>
 				</div>
-				<div class="col-sm-3 blog-sidebar">
-
+				<div class="col-sm-3 blog-sidebar" style="background-color:#f5f5f5;border-radius:5px">
+					<br>
 					<form id="w0" action="https://jogjaprov.go.id/agenda/index" method="post">
 						<input type="hidden" name="frontend-csrf"
 							value="SWhRbWx5TWseCgEaFkEAM3oGZjUgShwyPFAiXFUKGwoqNzwOXhQ4WA==">
@@ -85,6 +85,7 @@
 									Kemah Budaya Kaum Muda </a>
 							</li>
 						</ul>
+						<br>
 				</div>
 			</div>
 			

@@ -13,27 +13,7 @@
     <div class="section section-xl">
         <div class="container">
             <div class="row">
-                <div class="col-sm-3 blog-sidebar">
-                    <h4>PROFIL</h4>
-                    <ul>
-                        <li>
-                            <a href="6-instansi.html">Instansi</a>
-                        </li>
-                        <li class="active">
-                            <a href="5-profil.html">Lambang Daerah</a>
-                        </li>
-                        <li>
-                            <a href="7-satriya-sebagai-budaya-pemerintahan-di-diy.html">SATRIYA</a>
-                        </li>
-                        <li>
-                            <a href="3-sejarah.html">Sejarah</a>
-                        </li>
-                        <li>
-                            <a href="4-visi-misi-tujuan-dan-sasaran.html">Visi & Misi</a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-sm-9 post" style="border-left: 1px dashed #ddd;">
+                 <div class="col-sm-9 post" style="border-left: 1px dashed #ddd;">
                     <h2 class="post-title" style="font-weight: bold;">LAMBANG DAERAH</h2>
                     <br />
                     <br />
@@ -113,6 +93,7 @@
                         <li>hitam&nbsp;&rarr; yang berarti keabadian.</li>
                     </ol>
                 </div>
+                @include('profil-sidebar')
             </div>
         </div>
     </div>
