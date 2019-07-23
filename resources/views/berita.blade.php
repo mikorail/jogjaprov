@@ -20,7 +20,7 @@
                         <div class="media">
                             <div class="media-body">
                                 <a href="berita/index94d4.html?kategori=23-pemda-diy" class="category">Pemda DIY</a>
-                                <a href="berita/detail/7848-pembangunan-gedung-pkk-resmi-dimulai.html"
+                                <a href={{route('post')}}
                                     class="post-title">Pembangunan Gedung PKK Resmi Dimulai</a>
                                 <div class="author">by <a href="search/index.html">Humas</a></div>
                                 <div class="meta">
@@ -44,7 +44,7 @@
                             <div class="media-body">
                                 <a href="berita/index7fbf.html?kategori=22-wakil-gubernur-diy" class="category">Wakil
                                     Gubernur DIY</a>
-                                <a href="berita/detail/7847-sri-paduka-buka-gelar-pengawasan-daerah-diy-2019.html"
+                                <a href={{route('post')}}
                                     class="post-title">Sri Paduka Buka Gelar Pengawasan Daerah DIY 2019</a>
                                 <div class="author">by <a href="search/index.html">Editor</a></div>
                                 <div class="meta">
@@ -78,7 +78,7 @@
                             <div class="media-body">
                                 <a href="berita/index7fbf.html?kategori=22-wakil-gubernur-diy" class="category">Wakil
                                     Gubernur DIY</a>
-                                <a href="berita/detail/7846-wakil-gubernur-diy-hadiri-syawalan-bersama-gl-zoo.html"
+                                <a href={{route('post')}}
                                     class="post-title">Wakil Gubernur DIY Hadiri Syawalan Gembira Loka Zoo</a>
                                 <div class="author">by <a href="search/index.html">Editor</a></div>
                                 <div class="meta">
@@ -111,7 +111,7 @@
                             <div class="media-body">
                                 <a href="berita/index7ce0.html?kategori=21-gubernur-diy" class="category">Gubernur
                                     DIY</a>
-                                <a href="berita/detail/7845-merapi-merbabu-menoreh-diusulkan-jadi-cagar-biosfer-dunia.html"
+                                <a href={{route('post')}}
                                     class="post-title">Merapi, Merbabu, Menoreh Diusulkan Jadi Cagar Biosfer Dunia</a>
                                 <div class="author">by <a href="search/index.html">Humas</a></div>
                                 <div class="meta">
@@ -141,7 +141,7 @@
                             </div>
                             <div class="media-body">
                                 <a href="berita/index94d4.html?kategori=23-pemda-diy" class="category">Pemda DIY</a>
-                                <a href="berita/detail/7844-jelang-idul-adha-kulon-progo-antisipasi-penyakit-antraks.html"
+                                <a href={{route('post')}}
                                     class="post-title">Jelang Idul Adha, Kulon Progo Antisipasi Penyakit Antraks  </a>
                                 <div class="author">by <a href="search/index.html">Editor</a></div>
                                 <div class="meta">

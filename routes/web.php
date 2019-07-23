@@ -26,6 +26,7 @@ Route::get('/external', 'HomeController@external')->name('external');
 Route::get('/download', 'HomeController@download')->name('download');
 Route::get('/media', 'HomeController@media')->name('media');
 Route::get('/pengumuman', 'HomeController@pengumuman')->name('pengumuman');
+Route::get('/detail-peng', 'HomeController@detailpeng')->name('detailpeng');
 Route::get('/agendapost', 'HomeController@agendapost')->name('agendapost');
 Route::get('/artikel', 'HomeController@artikel')->name('artikel');
 Route::get('/artikeldetail', 'HomeController@artikeldetail')->name('artikeldetail');

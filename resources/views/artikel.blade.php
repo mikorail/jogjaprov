@@ -23,7 +23,7 @@
                     <div class="col-sm-4">
                         <div class="panel panel-default">
                             <div class="panel-heading post-thumb">
-                                <a href="/artikel/detail/15-bos-2017">
+                                <a href={{route('artikeldetail')}}>
                                     <center><img src="https://jogjaprov.go.id/static/images/yogya-istimewa.jpg"
                                             width="260px"></center>
                                 </a>
@@ -40,13 +40,13 @@
                     <div class="col-sm-4">
                         <div class="panel panel-default">
                             <div class="panel-heading post-thumb">
-                                <a href="/artikel/detail/26-bpad-aplikasi-perpustakaan-online-i-jogja">
+                                <a href={{route('artikeldetail')}}>
                                     <center><img src="https://jogjaprov.go.id/static/images/yogya-istimewa.jpg"
                                             width="260px"></center>
                                 </a>
                             </div>
                             <div class="panel-body post-body" style="height:180px">
-                                <h4><a href="/artikel/detail/26-bpad-aplikasi-perpustakaan-online-i-jogja">
+                                <h4><a href={{route('artikeldetail')}}>
                                         BPAD : Aplikasi Perpustakaan Online i-jogja </a></h4>
                                 <p>iJogja merupakan aplikasi perpustakaan digital berbasis media sosial yang bisa
                                     diunduh di... <ins><a
@@ -58,13 +58,13 @@
                     <div class="col-sm-4">
                         <div class="panel panel-default">
                             <div class="panel-heading post-thumb">
-                                <a href="/artikel/detail/14-info-bos">
+                                <a href={{route('artikeldetail')}}>
                                     <center><img src="https://jogjaprov.go.id/static/images/yogya-istimewa.jpg"
                                             width="260px"></center>
                                 </a>
                             </div>
                             <div class="panel-body post-body" style="height:180px">
-                                <h4><a href="/artikel/detail/14-info-bos">
+                                <h4><a href={{route('artikeldetail')}}>
                                         Info BOS </a></h4>
                                 <p>&nbsp;Informasi Seputar BOS
                                     &nbsp;
@@ -75,7 +75,7 @@
                     </div>
                     <div class="col-sm-4">
                         <div class="panel panel-default">
-                            <div class="panel-heading post-thumb">
+                            <div class={{route('artikeldetail')}}>
                                 <a href="/artikel/detail/23-informasi-seputar-dunia-pendidikan">
                                     <center><img src="https://jogjaprov.go.id/static/images/yogya-istimewa.jpg"
                                             width="260px"></center>

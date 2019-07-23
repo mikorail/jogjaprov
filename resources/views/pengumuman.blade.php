@@ -32,14 +32,14 @@
                                 <tr data-key="53">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Rabu, 03 Juli 2019</td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/53-surat-edaran-hut-ri-ke-74-tahun-2019.html">Surat
+                                            href={{route('detailpeng')}}>Surat
                                             Edaran HUT ke-74 RI Tahun 2019</a></td>
                                 </tr>
                                 <tr data-key="52">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Selasa, 02 Juli 2019
                                     </td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/52-hasil-seleksi-pegawai-pemerintah-dengan-perjanjian-kerja-tahap-i-pemerintah-daerah-daerah-istimewa-y.html">Hasil
+                                            href={{route('detailpeng')}}>Hasil
                                             Seleksi Pegawai Pemerintah Dengan Perjanjian Kerja Tahap I Pemda DIY</a>
                                     </td>
                                 </tr>
@@ -47,50 +47,50 @@
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Selasa, 18 Juni 2019
                                     </td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/51-penatapan-lokasi-pembangunan-jalur-kereta-api-akses-bandara-nyia.html">Penatapan
+                                            href={{route('detailpeng')}}>Penatapan
                                             Lokasi Pembangunan Jalur Kereta Api Akses Bandara NYIA</a></td>
                                 </tr>
                                 <tr data-key="50">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Kamis, 13 Juni 2019</td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/50-seleksi-calon-anggota-komisi-informasi-daerah-diy.html">Seleksi
+                                            href={{route('detailpeng')}}>Seleksi
                                             Calon Anggota Komisi Informasi Daerah DIY</a></td>
                                 </tr>
                                 <tr data-key="49">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Jumat, 31 Mei 2019</td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/49-libur-pelayanan-perizinan-dan-non-perizinan.html">Libur
+                                            href={{route('detailpeng')}}>Libur
                                             Pelayanan Perizinan dan Non Perizinan</a></td>
                                 </tr>
                                 <tr data-key="48">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Selasa, 28 Mei 2019</td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/48-program-pelatihan-ketrampilan-kerja-tahun-2019.html">Program
+                                            href={{route('detailpeng')}}>Program
                                             Pelatihan Ketrampilan Kerja Tahun 2019</a></td>
                                 </tr>
                                 <tr data-key="47">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Senin, 27 Mei 2019</td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/47-pelatihan-kebandarudaraan-tahun-2019.html">Pelatihan
+                                            href={{route('detailpeng')}}>Pelatihan
                                             Kerja Kebandarudaraan Tahun 2019</a></td>
                                 </tr>
                                 <tr data-key="45">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Rabu, 15 Mei 2019</td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/45-se-partisipasi-menyemarakkan-hari-kebangkitan-nasional.html">SE
+                                            href={{route('detailpeng')}}>SE
                                             Partisipasi Menyemarakkan Hari Kebangkitan Nasional</a></td>
                                 </tr>
                                 <tr data-key="46">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Rabu, 15 Mei 2019</td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/46-se-peringatan-hari-lahir-pancasila-2019.html">SE
+                                            href={{route('detailpeng')}}>SE
                                             Peringatan Hari Lahir Pancasila 2019</a></td>
                                 </tr>
                                 <tr data-key="44">
                                     <td style="text-align:left;white-space:nowrap;width:200px;">Selasa, 23 April 2019
                                     </td>
                                     <td style="text-align:left;white-space:nowrap;"><a
-                                            href="pengumuman/detail/44-pedoman-pelaksanaan-peringatan-hari-pendidikan-nasional-2019.html">Pedoman
+                                            href={{route('detailpeng')}}>Pedoman
                                             Pelaksanaan Peringatan Hari Pendidikan Nasional 2019</a></td>
                                 </tr>
                             </tbody>

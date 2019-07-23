@@ -93,5 +93,9 @@ class HomeController extends Controller
     {
         return view('profil-satriya');
     }
+    public function detailpeng()
+    {
+        return view('detailpengumuman');
+    }
     
 }

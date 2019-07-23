@@ -349,11 +349,11 @@
                     </li>
                     <li><a href="#">Profil<i class="caret"></i></a>
                         <ul>
-                            <li><a href="profil/6-instansi.html">Instansi</a></li>
+                            <li><a href={{route('profilinstansi')}}>Instansi</a></li>
                             <li><a href={{route('profil')}}>Lambang Daerah</a></li>
-                            <li><a href="profil/7-satriya-sebagai-budaya-pemerintahan-di-diy.html">SATRIYA</a></li>
-                            <li><a href="profil/3-sejarah.html">Sejarah</a></li>
-                            <li><a href="profil/4-visi-misi-tujuan-dan-sasaran.html">Visi & Misi</a></li>
+                            <li><a href={{route('profilsatriya')}}>SATRIYA</a></li>
+                            <li><a href={{route('profilsejarah')}}>Sejarah</a></li>
+                            <li><a href={{route('profilvisi')}}>Visi & Misi</a></li>
                         </ul>
                     </li>
                     <li><a href="#">Media <i class="caret"></i></a>
